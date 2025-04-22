@@ -1,5 +1,4 @@
 # University-management-system
-# University Management System
 
 ## 📚 Overview
 This Python project is a console-based College Management System where you can add colleges, register students/teachers, and allow them to log in securely via OTP (email verification). Additionally, it features voice feedback using the pyttsx3 module for a better user experience.
